@@ -56,12 +56,16 @@ The qualitative results for motion estimation are shown in an office scene consi
 If you use this code in your research, please cite:
 
 ```
-@inproceedings{cerezo2024camera,
-  title={Camera Motion Estimation from RGB-D-Inertial Scene Flow},
-  author={Samuel Cerezo, Javier Civera},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-  year={2024}
-}
+@INPROCEEDINGS{10677884,
+  author={Cerezo, Samuel and Civera, Javier},
+  booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={Camera Motion Estimation from RGB-D-Inertial Scene Flow}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={841-849},
+  keywords={Visualization;Three-dimensional displays;Measurement units;Motion estimation;Sensor fusion;Cameras;Sensors;Motion estimation;RGB-D-inertial navigation},
+  doi={10.1109/CVPRW63382.2024.00089}}
 ```
 
 ### License
