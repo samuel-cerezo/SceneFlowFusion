@@ -48,7 +48,6 @@ The qualitative results for motion estimation are shown in an office scene consi
 ### Code Structure
 
 - `src/`: Core implementation of the motion estimation algorithm.
-- `data/`: Placeholder for RGB-D and inertial data.
 - `scripts/`: Utility scripts for dataset handling and visualization.
 - `README.md`: Project description and usage instructions.
 
