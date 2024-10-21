@@ -39,6 +39,11 @@ After setting up MATLAB and dependencies, you can run the demo with:
 ```matlab
 run demo.mlx
 ```
+### Results
+
+The qualitative results for motion estimation are shown in an office scene consisting of a computer on a desk and luminaires. A point cloud is extracted from the RGB-D data, and the scene flow is displayed with red arrows representing velocity at each point. A zoomed-in view highlights that the approach estimates a smooth flow even in textureless areas like the background wall.
+
+![sceneFlow](/images/sf.png)
 
 ### Code Structure
 
