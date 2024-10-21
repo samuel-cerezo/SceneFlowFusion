@@ -37,7 +37,7 @@ cd repo-name
 After setting up MATLAB and dependencies, you can run the demo with:
 
 ```matlab
-run demo.mlx
+run main.mlx
 ```
 ### Results
 
